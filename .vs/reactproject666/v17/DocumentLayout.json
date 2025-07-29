@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|c:\\users\\ko7al\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\f\\reactproject666\\src\\history.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|solutionrelative:src\\history.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|c:\\users\\ko7al\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\f\\reactproject666\\src\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|solutionrelative:src\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|c:\\users\\ko7al\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\f\\reactproject666\\src\\mainform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|solutionrelative:src\\mainform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|c:\\users\\ko7al\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\f\\reactproject666\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|c:\\users\\ko7al\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\f\\reactproject666\\src\\mainform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|solutionrelative:src\\mainform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|c:\\users\\ko7al\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\f\\reactproject666\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|c:\\users\\ko7al\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\f\\reactproject666\\src\\mainlogo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03DAD96B-1D82-C00D-8113-6714D603DF6D}|reactproject666.esproj|solutionrelative:src\\mainlogo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\Footer.jsx",
+              "RelativeDocumentMoniker": "src\\Footer.jsx",
+              "ToolTip": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\Footer.jsx",
+              "RelativeToolTip": "src\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-29T12:42:56.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.jsx",
+              "DocumentMoniker": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\MainForm.jsx",
+              "RelativeDocumentMoniker": "src\\MainForm.jsx",
+              "ToolTip": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\MainForm.jsx",
+              "RelativeToolTip": "src\\MainForm.jsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-28T13:52:46.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "History.jsx",
+              "DocumentMoniker": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\History.jsx",
+              "RelativeDocumentMoniker": "src\\History.jsx",
+              "ToolTip": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\History.jsx",
+              "RelativeToolTip": "src\\History.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-29T08:21:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.css",
+              "DocumentMoniker": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\MainForm.css",
+              "RelativeDocumentMoniker": "src\\MainForm.css",
+              "ToolTip": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\MainForm.css",
+              "RelativeToolTip": "src\\MainForm.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-29T08:34:50.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T22:06:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLogo.jsx",
+              "DocumentMoniker": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\MainLogo.jsx",
+              "RelativeDocumentMoniker": "src\\MainLogo.jsx",
+              "ToolTip": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\MainLogo.jsx",
+              "RelativeToolTip": "src\\MainLogo.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-29T08:32:46.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\Ko7aL\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\F\\reactproject666\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-28T13:50:51.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
