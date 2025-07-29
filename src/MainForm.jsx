@@ -1,15 +1,16 @@
-﻿import dollar from './assets/dollar.svg'
+import dollar from './assets/dollar.svg'
 import './MainForm.css'
 import send from './assets/send.svg'
 function MainForm() {
     return (
-        <>
-            <div className='grid place-items-center text-white'>
-                <p className='font-normal'>Возврат бонусов</p>
+    <>
+            <main className='grid place-items-center text-white'>
+
+                    <p className='font-normal'>Возврат бонусов</p>
 
                     
+                <form className='max-w-150 min-h-30 mt-2 grid grid-cols-4 grid-rows-4 gap-3 text-white'>
 
-                <div className='max-w-150 min-h-30 mt-2 grid grid-cols-4 grid-rows-4 gap-3 text-white'>
                     <button className='box min-h-15 max-w-30 min-w-25 flex items-center justify-center'>
 
                         <svg className='fill-white pr-1' width="22" height="22" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
@@ -17,35 +18,50 @@ function MainForm() {
                             
                         </svg>
 
-                        Бонусов</button>
+                     Бонусов
+                    </button>
 
-                    <input placeholder="Введите количество бонусов" className='box min-w-70 col-span-3 p-2' />
+                        <input placeholder="Введите количество бонусов" className='box min-w-70 col-span-3 p-2' />
 
                     <button className='box max-w-30 flex items-center justify-center'>
-                        <img className='mr-1' src={dollar} alt="dollar" />
-                        USDT</button>
 
-                    <input placeholder="Итоговая сумма" className='box min-w-70 col-span-3 p-2' />
+                        <img className='mr-1' src={dollar} alt="dollar" />
+
+                     USDT
+                    </button>
+
+                        <input placeholder="Итоговая сумма" className='box min-w-70 col-span-3 p-2' />
 
                     <p></p>
 
-                    <p className='col-span-3 pl-2 text-xs text-stone-400'>Комиссия будет расчитана после конечной суммы</p>
+                    <p className='col-span-3 pl-2 text-xs text-stone-400'>
 
-                    <div className='box min-w-70 col-span-4 grid grid-cols-5 p-2'>
+                     Комиссия будет расчитана после конечной суммы
+                    </p>
+
+                  <form className='box min-w-70 col-span-4 grid grid-cols-5 p-2'>
+
                         <input placeholder="Номер кошелька" className='col-span-4' />
 
                         
                         <div className='flex place-content-end'>
-                        <button className=' flex min-w-10 items-center justify-center rounded-xl bg-emerald-500'><img src={send} className='max-h-4 min-h-4 min-w-4 max-w-4' alt="send" /></button>
+
+                            <button className=' flex min-w-10 items-center justify-center rounded-xl bg-emerald-500'>
+
+                                <img src={send} className='max-h-4 min-h-4 min-w-4 max-w-4' alt="send" />
+
+                            </button>
+
                         </div>
-                    </div>
 
-                </div>
+                  </form>
+
+                </form>
                     
-            </div>
+            </main>
 
 
-        </>
+    </>
 
   );
 }
